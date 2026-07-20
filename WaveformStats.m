@@ -1,4 +1,4 @@
-%% personalMasteringAssistant_v2.m
+%% WaveformStatisticsAnalysis.m
 clear; clc; close all;
 
 makePlots = true;
