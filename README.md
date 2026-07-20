@@ -1,6 +1,6 @@
 Open in MATLAB online!
 
-Need to master your track for any delivery (streaming, vinyl, whatever)
+Need to master your track for any delivery (streaming, vinyl, whatever)?
 
 You will need to know your tracks: 
 Sample Peak 
