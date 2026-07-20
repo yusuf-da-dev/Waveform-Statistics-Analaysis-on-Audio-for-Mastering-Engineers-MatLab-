@@ -1,0 +1,2 @@
+# Waveform-Statistics-Analaysis-on-Audio-for-Mastering-Engineers-MatLab-
+If you master music, you must have come into contact with Izotope RX: when you press control+D, you get waveform statistics which is information that can be used to turn a mix into a final mastered track from the tracks' True Peak, Integrated Loudness, Sample Peak and RMS values. My code will provide you with accurate values all for free.
