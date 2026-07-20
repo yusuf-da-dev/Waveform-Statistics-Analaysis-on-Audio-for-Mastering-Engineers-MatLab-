@@ -1,6 +1,6 @@
 Open in MATLAB online! 
 
-(https://mathworks.com) / https://matlab.mathworks.com/?elqsid=095kmrndy5aj4pqp1rk8
+(https://mathworks.com) 
 
 Need to master your track for any delivery (streaming, vinyl, CD, etc)?
 
